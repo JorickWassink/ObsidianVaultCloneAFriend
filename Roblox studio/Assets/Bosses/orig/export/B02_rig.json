@@ -1,0 +1,143 @@
+{
+ "tag": "B02",
+ "bones": [
+  [
+   "HumanoidRootPart",
+   null,
+   -0.027,
+   0.0,
+   7.8
+  ],
+  [
+   "Body",
+   "HumanoidRootPart",
+   -0.027,
+   0.0,
+   7.8
+  ],
+  [
+   "Head",
+   "Body",
+   0.0,
+   -0.6,
+   11.4
+  ],
+  [
+   "LeftUpperArm",
+   "Body",
+   4.2,
+   0.0,
+   10.6
+  ],
+  [
+   "RightUpperArm",
+   "Body",
+   -4.2,
+   0.0,
+   10.6
+  ],
+  [
+   "LeftLowerArm",
+   "LeftUpperArm",
+   5.1,
+   -0.2,
+   8.2
+  ],
+  [
+   "RightLowerArm",
+   "RightUpperArm",
+   -5.1,
+   -0.2,
+   8.2
+  ],
+  [
+   "LeftHand",
+   "LeftLowerArm",
+   5.2,
+   -0.4,
+   6.0
+  ],
+  [
+   "RightHand",
+   "RightLowerArm",
+   -5.2,
+   -0.4,
+   6.0
+  ],
+  [
+   "LeftLeg",
+   "Body",
+   2.6,
+   0.6,
+   4.6
+  ],
+  [
+   "RightLeg",
+   "Body",
+   -2.6,
+   0.6,
+   4.6
+  ]
+ ],
+ "parts": {
+  "LeftLeg": "a7aeb9",
+  "RightLeg": "a7aeb9",
+  "LeftLeg_FurDark": "878e9a",
+  "RightLeg_FurDark": "878e9a",
+  "Body": "a7aeb9",
+  "Body_Light": "ebeef2",
+  "Body_White": "ffffff",
+  "Body_Carrot": "ff7600",
+  "Body_CarrotDark": "ff6800",
+  "Body_Leaf": "3aeb45",
+  "Body_LeafDark": "28c136",
+  "Body_Strap": "945b2b",
+  "Head": "a7aeb9",
+  "Head_FurDark": "878e9a",
+  "Head_Light": "ebeef2",
+  "Head_Pink": "ff9db3",
+  "Head_Dark": "211c1c",
+  "Head_Leaf": "3aeb45",
+  "Head_LeafDark": "28c136",
+  "LeftUpperArm": "a7aeb9",
+  "RightUpperArm": "a7aeb9",
+  "LeftLowerArm": "a7aeb9",
+  "RightLowerArm": "a7aeb9",
+  "LeftHand": "ebeef2",
+  "RightHand": "ebeef2",
+  "Body_FurDark": "878e9a",
+  "LeftUpperArm_FurDark": "878e9a",
+  "RightUpperArm_FurDark": "878e9a",
+  "Head_Eyes_Grumpy+Angry+GlanceL+GlanceR+Dazed_EyeW": "fafafa",
+  "Head_Eyes_Grumpy_Iris": "ff1632",
+  "Head_Eyes_Grumpy_FaceD": "1e181a",
+  "Head_Eyes_Grumpy_EyeW": "fafafa",
+  "Head_Eyes_Grumpy_FurDark": "878e9a",
+  "Head_Eyes_GlanceL_Iris": "ff1632",
+  "Head_Eyes_GlanceL_FaceD": "1e181a",
+  "Head_Eyes_GlanceL_EyeW": "fafafa",
+  "Head_Eyes_GlanceL_FurDark": "878e9a",
+  "Head_Eyes_GlanceR_Iris": "ff1632",
+  "Head_Eyes_GlanceR_FaceD": "1e181a",
+  "Head_Eyes_GlanceR_EyeW": "fafafa",
+  "Head_Eyes_GlanceR_FurDark": "878e9a",
+  "Head_Eyes_Angry_Iris": "ff1632",
+  "Head_Eyes_Angry_FaceD": "1e181a",
+  "Head_Eyes_Angry_EyeW": "fafafa",
+  "Head_Eyes_Angry_FurDark": "878e9a",
+  "Head_Eyes_Dazed_FaceD": "1e181a",
+  "Head_Eyes_Hurt_FaceD": "1e181a",
+  "Head_Eyes_Blink_FaceD": "1e181a",
+  "Head_Mouth_Grumpy_FaceD": "1e181a",
+  "Head_Mouth_Grumpy_Teeth": "fcf9f0",
+  "Head_Mouth_Angry_FaceD": "1e181a",
+  "Head_Mouth_Angry_Teeth": "fcf9f0",
+  "Head_Mouth_Roar_FaceD": "1e181a",
+  "Head_Mouth_Roar_Tongue": "e85c70",
+  "Head_Mouth_Roar_Teeth": "fcf9f0",
+  "Head_Mouth_Hurt_FaceD": "1e181a",
+  "Head_Mouth_Hurt_Teeth": "fcf9f0",
+  "Head_Mouth_Dazed_FaceD": "1e181a",
+  "Head_Mouth_Dazed_Tongue": "e85c70"
+ }
+}

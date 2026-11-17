@@ -1,0 +1,116 @@
+{
+ "Boss10Idle": {
+  "length": 4.0,
+  "loop": true,
+  "hold": false,
+  "priority": "Idle",
+  "events": {},
+  "expressions": "0:Grumpy,1.2:GlanceL,1.7:Grumpy,2.6:Blink,2.75:Grumpy"
+ },
+ "Boss10Walk": {
+  "length": 1.8,
+  "loop": true,
+  "hold": false,
+  "priority": "Movement",
+  "events": {
+   "stomp": 0,
+   "stomp2": 0.9
+  },
+  "expressions": "0:Grumpy"
+ },
+ "Boss10Strike": {
+  "length": 1.05,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "impact": 0.55
+  },
+  "expressions": "0:Angry,0.95:Grumpy"
+ },
+ "Boss10SpecialWind": {
+  "length": 1.6,
+  "loop": false,
+  "hold": true,
+  "priority": "Action",
+  "events": {
+   "roar": 0.5
+  },
+  "expressions": "0:Angry"
+ },
+ "Boss10FlyUp": {
+  "length": 1.2,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "liftoff": 0.35
+  },
+  "expressions": "0:Angry"
+ },
+ "Boss10Hover": {
+  "length": 1.2,
+  "loop": true,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "flap": 0
+  },
+  "expressions": "0:Angry"
+ },
+ "Boss10SpecialDive": {
+  "length": 0.7,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Angry"
+ },
+ "Boss10SpecialHit": {
+  "length": 1.2,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "impact": 0.1
+  },
+  "expressions": "0:Angry,0.9:Grumpy"
+ },
+ "Boss10Cast": {
+  "length": 1.0,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "erupt": 0.45
+  },
+  "expressions": "0:Angry"
+ },
+ "Boss10Intro": {
+  "length": 4.2,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "roar": 2.4,
+   "pound": 3.35
+  },
+  "expressions": "0:Blink,0.5:Grumpy,2.2:Angry"
+ },
+ "Boss10Defeat": {
+  "length": 1.4,
+  "loop": false,
+  "hold": true,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Hurt,0.55:Dazed"
+ },
+ "Boss10Hurt": {
+  "length": 0.6,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Hurt,0.5:Grumpy"
+ }
+}

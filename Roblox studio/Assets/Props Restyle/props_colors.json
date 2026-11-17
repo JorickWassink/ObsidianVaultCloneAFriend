@@ -1,0 +1,228 @@
+{
+ "colors": {
+  "Leaf": "5cc23a",
+  "LeafDark": "3e9e2b",
+  "LeafLight": "8bd94a",
+  "LeafTop": "a8e85c",
+  "Pine": "2f8a4a",
+  "PineDark": "23703b",
+  "PineLight": "47a85c",
+  "BirchLeaf": "b3dd52",
+  "BirchLeafDark": "8cc23e",
+  "Bark": "8a5a34",
+  "BarkDark": "6b4325",
+  "BarkLight": "a8744a",
+  "Birch": "f2efe6",
+  "BirchMark": "3a3a3a",
+  "Apple": "e5383b",
+  "AppleLeaf": "4caf50",
+  "Grass": "5cd02e",
+  "GrassDark": "45b022",
+  "Rock": "9aa3ad",
+  "RockDark": "7b8590",
+  "RockLight": "b9c0c8",
+  "Moss": "6cbf3a",
+  "Pink": "ff6fa8",
+  "PinkDark": "e04e8a",
+  "Yellow": "ffd23f",
+  "White": "ffffff",
+  "Purple": "a77bff",
+  "Blue": "5aa9ff",
+  "MushRed": "e0453a",
+  "MushGill": "f7d9b8",
+  "Stem": "f3e6cf",
+  "WoodCut": "e8c08a",
+  "WoodRing": "c9955a",
+  "Wood": "a0683a",
+  "WoodLight": "b97c48",
+  "WoodDark": "6e4426",
+  "Metal": "2b3247",
+  "MetalLight": "4a5470",
+  "Glow": "ffe9a0n",
+  "Water": "4fc3f7",
+  "WaterLight": "a6e4ff",
+  "Stone": "c7ccd4",
+  "StoneDark": "a4abb6",
+  "StoneLight": "dde1e7",
+  "Roof": "d64545",
+  "RoofDark": "b33636",
+  "Rope": "d9c08a",
+  "Tent": "ff8c42",
+  "TentDark": "e0702a",
+  "TentLight": "fff1d6",
+  "Interior": "5a3a2a",
+  "Hay": "e8c35a",
+  "HayDark": "c9a23f",
+  "HayLight": "f5d97a",
+  "Blanket": "e63946",
+  "Fire": "ff8a00n",
+  "FireTip": "ffd23fn",
+  "Ember": "ff4d1an",
+  "Ash": "4a4a4a",
+  "MailRed": "d63a3a",
+  "MailDark": "a82a2a",
+  "Sign": "d9a066",
+  "SignDark": "b8844e",
+  "Bread": "e8b46a",
+  "Cheese": "ffd54f",
+  "Plate": "f5f5f5",
+  "Juice": "ff9f1c",
+  "Cliff": "c9824a",
+  "CliffDark": "a8652f",
+  "CliffLight": "dd9a5e",
+  "LabWhite": "f4f6fa",
+  "LabNavy": "1f2a52",
+  "LabRed": "e5383b",
+  "Chrome": "c9d3df",
+  "LabScreen": "4fe3ffn",
+  "LampGreen": "4dff7an",
+  "LampYellow": "ffd23fn",
+  "LampRed": "ff4d4dn",
+  "Hazard": "ffc933",
+  "Ink": "22242e",
+  "Accent": "de2a2c",
+  "Bulb": "fff1a8n",
+  "Gold": "ffc933",
+  "GoldDark": "e0a020",
+  "Steel": "dfe6ee",
+  "Sack": "d9b37a",
+  "Gem": "35c8ff",
+  "GemPink": "ff5fc8",
+  "GemPurple": "a66bff",
+  "Velvet": "7a3fd0",
+  "Pot": "c96a3a",
+  "ArcPurple": "7b3fe4",
+  "ArcDark": "3a1f96",
+  "Panel": "2b3247",
+  "Bezel": "14204a",
+  "Screen": "16163f",
+  "Marquee": "ff4fa3n",
+  "MarqueeStar": "ffd23fn",
+  "Glow1": "35e0ffn",
+  "Glow2": "ff4fa3n",
+  "Stick": "2b3247",
+  "StickBall": "e0262c",
+  "Button1": "e0262c",
+  "Button2": "ffc933",
+  "Button3": "35e0ff",
+  "PixelGreen": "59ff7an",
+  "PixelYellow": "ffd23fn",
+  "PixelPink": "ff5fc8n",
+  "CoinGlow": "ff9f1cn",
+  "ArtYellow": "ffc933"
+ },
+ "props": {
+  "LeverConsole": {
+   "cell": [
+    0,
+    0
+   ],
+   "meshes": [
+    "LeverConsole__LabNavy",
+    "LeverConsole__Hazard",
+    "LeverConsole__Ink",
+    "LeverConsole__LabWhite",
+    "LeverConsole__LabRed",
+    "LeverConsole__Chrome",
+    "LeverConsole__LabScreen",
+    "LeverConsole__LampGreen",
+    "LeverConsole__LampYellow",
+    "LeverConsole__LampRed"
+   ]
+  },
+  "LeverHandle": {
+   "cell": [
+    8,
+    0
+   ],
+   "meshes": [
+    "LeverHandle__Chrome"
+   ]
+  },
+  "LeverBall": {
+   "cell": [
+    12,
+    0
+   ],
+   "meshes": [
+    "LeverBall__LabRed"
+   ]
+  },
+  "Stall": {
+   "cell": [
+    0,
+    30
+   ],
+   "meshes": [
+    "Stall__WoodDark",
+    "Stall__WoodLight",
+    "Stall__Wood",
+    "Stall__Accent",
+    "Stall__LabWhite",
+    "Stall__Ink",
+    "Stall__Bulb",
+    "Stall__Pot",
+    "Stall__Leaf",
+    "Stall__LeafLight"
+   ]
+  },
+  "MarketProps": {
+   "cell": [
+    0,
+    30
+   ],
+   "meshes": [
+    "MarketProps__Wood",
+    "MarketProps__WoodDark",
+    "MarketProps__Steel",
+    "MarketProps__Gold",
+    "MarketProps__Sack",
+    "MarketProps__GoldDark"
+   ]
+  },
+  "GemProps": {
+   "cell": [
+    30,
+    30
+   ],
+   "meshes": [
+    "GemProps__RockDark",
+    "GemProps__Gem",
+    "GemProps__GemPurple",
+    "GemProps__GemPink",
+    "GemProps__Velvet",
+    "GemProps__Gold",
+    "GemProps__LabWhite"
+   ]
+  },
+  "ArcadeMachine": {
+   "cell": [
+    30,
+    0
+   ],
+   "meshes": [
+    "ArcadeMachine__Ink",
+    "ArcadeMachine__ArcPurple",
+    "ArcadeMachine__Glow1",
+    "ArcadeMachine__ArtYellow",
+    "ArcadeMachine__Glow2",
+    "ArcadeMachine__ArcDark",
+    "ArcadeMachine__Marquee",
+    "ArcadeMachine__MarqueeStar",
+    "ArcadeMachine__Bezel",
+    "ArcadeMachine__Screen",
+    "ArcadeMachine__PixelGreen",
+    "ArcadeMachine__PixelYellow",
+    "ArcadeMachine__PixelPink",
+    "ArcadeMachine__Panel",
+    "ArcadeMachine__Stick",
+    "ArcadeMachine__StickBall",
+    "ArcadeMachine__Button1",
+    "ArcadeMachine__Button2",
+    "ArcadeMachine__Button3",
+    "ArcadeMachine__CoinGlow"
+   ]
+  }
+ },
+ "hinge_z": 2.85
+}

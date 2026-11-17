@@ -1,0 +1,44 @@
+{
+ "tag": "P07",
+ "bones": [
+  [
+   "HumanoidRootPart",
+   null,
+   0.0,
+   0.0,
+   3.0
+  ],
+  [
+   "Body",
+   "HumanoidRootPart",
+   0.0,
+   0.0,
+   3.0
+  ],
+  [
+   "Head",
+   "Body",
+   0.0,
+   -0.2,
+   5.2
+  ]
+ ],
+ "parts": {
+  "Body": "ffb436",
+  "Body_Light": "ffdf9d",
+  "Body_Cape": "f80d19",
+  "Body_Ermine": "ffffff",
+  "Body_Gold": "ffb500",
+  "Body_Orb": "0093ffn",
+  "Head": "d06a14",
+  "Head_Fur": "ffb436",
+  "Head_Light": "ffdf9d",
+  "Head_Nose": "7a472d",
+  "Head_Eyes_Happy_Dark": "1d1a1d",
+  "Head_Eyes_Happy_Glint": "ffffff",
+  "Head_Dark": "1d1a1d",
+  "Head_Gold": "ffb500",
+  "Head_Gem": "ff180f",
+  "Head_Eyes_Blink_Dark": "1d1a1d"
+ }
+}

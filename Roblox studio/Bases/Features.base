@@ -1,0 +1,30 @@
+filters:
+  and:
+    - 'file.inFolder("Features")'
+formulas:
+  priority_label: 'if(priority == "High", "🔴 High", if(priority == "Medium", "🟡 Medium", "🟢 Low"))'
+properties:
+  file.name:
+    displayName: "Feature"
+  formula.priority_label:
+    displayName: "Priority"
+views:
+  - type: table
+    name: "Roadmap"
+    order:
+      - file.name
+      - status
+      - formula.priority_label
+      - milestone
+      - scripts
+      - remotes
+    groupBy:
+      property: milestone
+      direction: ASC
+  - type: cards
+    name: "Cards"
+    order:
+      - file.name
+      - status
+      - formula.priority_label
+      - milestone

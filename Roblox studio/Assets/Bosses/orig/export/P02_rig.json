@@ -1,0 +1,45 @@
+{
+ "tag": "P02",
+ "bones": [
+  [
+   "HumanoidRootPart",
+   null,
+   0.0,
+   0.0,
+   3.0
+  ],
+  [
+   "Body",
+   "HumanoidRootPart",
+   0.0,
+   0.0,
+   3.0
+  ],
+  [
+   "Head",
+   "Body",
+   0.0,
+   -0.2,
+   5.2
+  ]
+ ],
+ "parts": {
+  "Body": "a7aeb9",
+  "Body_Light": "ebeef2",
+  "Body_FurDark": "878e9a",
+  "Body_White": "ffffff",
+  "Body_Carrot": "ff7600",
+  "Body_Leaf": "3aeb45",
+  "Head": "a7aeb9",
+  "Head_Light": "ebeef2",
+  "Head_Pink": "ff9db3",
+  "Head_White": "ffffff",
+  "Head_Eyes_Happy_Dark": "211c1c",
+  "Head_Eyes_Happy_White": "ffffff",
+  "Head_Dark": "211c1c",
+  "Head_Leaf": "3aeb45",
+  "Head_LeafDark": "28c136",
+  "Head_FurDark": "878e9a",
+  "Head_Eyes_Blink_Dark": "211c1c"
+ }
+}

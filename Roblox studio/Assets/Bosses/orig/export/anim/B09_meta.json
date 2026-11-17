@@ -1,0 +1,101 @@
+{
+ "Boss9Idle": {
+  "length": 3.2,
+  "loop": true,
+  "hold": false,
+  "priority": "Idle",
+  "events": {},
+  "expressions": "0:Grumpy,1.2:GlanceL,1.7:Grumpy,2.6:Blink,2.75:Grumpy"
+ },
+ "Boss9Walk": {
+  "length": 0.9,
+  "loop": true,
+  "hold": false,
+  "priority": "Movement",
+  "events": {},
+  "expressions": "0:Grumpy"
+ },
+ "Boss9Strike": {
+  "length": 1.05,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "impact": 0.55
+  },
+  "expressions": "0:Angry,0.95:Grumpy"
+ },
+ "Boss9SpecialWind": {
+  "length": 1.2,
+  "loop": false,
+  "hold": true,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Angry"
+ },
+ "Boss9FlyUp": {
+  "length": 1.0,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "liftoff": 0.3
+  },
+  "expressions": "0:Angry"
+ },
+ "Boss9Hover": {
+  "length": 1.0,
+  "loop": true,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "flap": 0
+  },
+  "expressions": "0:Angry"
+ },
+ "Boss9SpecialDive": {
+  "length": 0.6,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Angry"
+ },
+ "Boss9SpecialHit": {
+  "length": 1.1,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "impact": 0.1
+  },
+  "expressions": "0:Angry,0.9:Grumpy"
+ },
+ "Boss9Intro": {
+  "length": 4.2,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "roar": 2.4,
+   "pound": 3.35
+  },
+  "expressions": "0:Blink,0.5:Grumpy,2.2:Angry"
+ },
+ "Boss9Defeat": {
+  "length": 1.4,
+  "loop": false,
+  "hold": true,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Hurt,0.55:Dazed"
+ },
+ "Boss9Hurt": {
+  "length": 0.6,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Hurt,0.5:Grumpy"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "Boss8Idle": {
+  "length": 3.0,
+  "loop": true,
+  "hold": false,
+  "priority": "Idle",
+  "events": {},
+  "expressions": "0:Grumpy,1.4:GlanceL,1.9:GlanceR,2.4:Grumpy"
+ },
+ "Boss8Walk": {
+  "length": 1.4,
+  "loop": true,
+  "hold": false,
+  "priority": "Movement",
+  "events": {
+   "stomp": 0,
+   "stomp2": 0.7
+  },
+  "expressions": "0:Grumpy"
+ },
+ "Boss8Strike": {
+  "length": 1.05,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "impact": 0.55
+  },
+  "expressions": "0:Angry,0.95:Grumpy"
+ },
+ "Boss8SpecialWind": {
+  "length": 1.0,
+  "loop": false,
+  "hold": true,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Angry"
+ },
+ "Boss8SpecialThrow": {
+  "length": 0.4,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "release": 0.05
+  },
+  "expressions": "0:Angry"
+ },
+ "Boss8SpecialHit": {
+  "length": 1.5,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "launch": 0.3,
+   "impact": 0.8
+  },
+  "expressions": "0:Angry,0.3:Angry,1.1:Angry"
+ },
+ "Boss8Intro": {
+  "length": 4.2,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "roar": 2.4,
+   "pound": 3.35
+  },
+  "expressions": "0:Blink,0.6:Grumpy,2.2:Angry,3.0:Angry"
+ },
+ "Boss8Defeat": {
+  "length": 1.4,
+  "loop": false,
+  "hold": true,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Hurt,0.55:Dazed"
+ },
+ "Boss8Hurt": {
+  "length": 0.6,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Hurt,0.5:Grumpy"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "tag": "P06",
+ "bones": [
+  [
+   "HumanoidRootPart",
+   null,
+   0.0,
+   1.65,
+   2.8
+  ],
+  [
+   "Body",
+   "HumanoidRootPart",
+   0.0,
+   1.65,
+   2.8
+  ],
+  [
+   "Head",
+   "Body",
+   0.0,
+   -1.2,
+   4.0
+  ]
+ ],
+ "parts": {
+  "Body": "959da8",
+  "Body_Armor": "fff7e1",
+  "Body_Trim": "ffc108",
+  "Body_Tabard": "146eff",
+  "Body_HideDark": "777f8b",
+  "Head": "959da8",
+  "Head_Snout": "b0b7be",
+  "Head_Dark": "1d1a1d",
+  "Head_Eyes_Happy_Dark": "1d1a1d",
+  "Head_Eyes_Happy_Glint": "ffffff",
+  "Head_Horn": "fff6dd",
+  "Head_HornGlow": "ffaf00n",
+  "Head_Armor": "fff7e1",
+  "Head_Trim": "ffc108",
+  "Head_HideDark": "777f8b",
+  "Head_Eyes_Blink_Dark": "1d1a1d"
+ }
+}

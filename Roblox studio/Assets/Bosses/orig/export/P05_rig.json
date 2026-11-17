@@ -1,0 +1,45 @@
+{
+ "tag": "P05",
+ "bones": [
+  [
+   "HumanoidRootPart",
+   null,
+   0.0,
+   0.0,
+   3.0
+  ],
+  [
+   "Body",
+   "HumanoidRootPart",
+   0.0,
+   0.0,
+   3.0
+  ],
+  [
+   "Head",
+   "Body",
+   0.0,
+   -0.2,
+   5.1
+  ]
+ ],
+ "parts": {
+  "Body": "50505a",
+  "Body_Apron": "3381ff",
+  "Body_Stripe": "ddeaff",
+  "Body_Dark": "1d1a1d",
+  "Body_PinHandle": "eea44b",
+  "Body_RollingPin": "ffc677",
+  "Body_Scarf": "ff180f",
+  "Head": "50505a",
+  "Head_FurDark": "3e3e49",
+  "Head_Face": "a5988e",
+  "Head_Eyes_Happy_Dark": "1d1a1d",
+  "Head_Eyes_Happy_Glint": "ffffff",
+  "Head_Dark": "1d1a1d",
+  "Head_Mustache": "462a1a",
+  "Head_CapBand": "fbfbfb",
+  "Head_Cap": "ffffff",
+  "Head_Eyes_Blink_Dark": "1d1a1d"
+ }
+}

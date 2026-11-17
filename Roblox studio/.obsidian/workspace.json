@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "8bf9eafef64f8406",
+    "type": "split",
+    "children": [
+      {
+        "id": "20b2e5ac6d944a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0593628bc6a0aa5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Grafiek weergave"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30e81bcbc70740b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f52981bce7c62ba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9af7787209cf7a00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Verkenner"
+            }
+          },
+          {
+            "id": "d469e2f1f8142474",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Zoeken"
+            }
+          },
+          {
+            "id": "a5156d270162a1d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bladwijzers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe7c4409bd8fdb53",
+    "type": "split",
+    "children": [
+      {
+        "id": "98efd0d83e4a2c0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba88c9c1a0d7f43a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Terugverwijzing"
+            }
+          },
+          {
+            "id": "ced62b0560919c50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Uitgaande verwijzingen"
+            }
+          },
+          {
+            "id": "9b218ae89c7b7c70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Labels"
+            }
+          },
+          {
+            "id": "c8b714a0f45fea48",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle eigenschappen"
+            }
+          },
+          {
+            "id": "d59e1cacac86a6ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Overzicht"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "bases:Nieuwe basis maken": false
+    }
+  },
+  "active": "0593628bc6a0aa5b",
+  "lastOpenFiles": [
+    "Design/Clone a Friend Index.md",
+    "Design/Clone a Friend Feedback 2026-11-04.md",
+    "Research/Topics/Model Design.md",
+    "Research/Galleries/Sols RNG - Auras (2 of 3).md",
+    "Research/Galleries/Steal An Egg - Eggs and Pets (1 of 2).md",
+    "Design/Clone a Friend Modifiers.md.tmp.3164.a8fceb825b1f",
+    "Assets/Aura Textures.md",
+    "Assets/Aura Textures/make_textures.py",
+    "Assets/Aura Textures/Wing.png",
+    "Assets/Aura Textures/StarBurst.png",
+    "Assets/Aura Textures/Spiral.png",
+    "Assets/Aura Textures/Snowflake.png",
+    "Assets/Aura Textures/Slash.png",
+    "Assets/Aura Textures/Sigil.png",
+    "Assets/Aura Textures/Shockwave.png",
+    "Assets/Aura Textures/Scanlines.png",
+    "Assets/Aura Textures/Orb.png",
+    "Assets/Aura Textures/MagicCircle2.png",
+    "Assets/Aura Textures",
+    "Design/Clone a Friend Modifiers.md",
+    "Design/RNG Shooter Redesign.md.tmp.25404.05b973d93c22",
+    "Design/RNG Shooter Redesign.md.tmp.25404.1cfda380e50b",
+    "Design/RNG Shooter Roster.md",
+    "Research/Games/Randomizer.md",
+    "Design/RNG Shooter Redesign.md",
+    "docs/adr/0003-robux-sells-lucky-rolls.md",
+    "CONTEXT.md.tmp.25404.9202e447aad8",
+    "CONTEXT.md.tmp.25404.75c67c886a5b",
+    "CONTEXT.md.tmp.25404.6587e9f72dcb",
+    "CONTEXT.md.tmp.25404.4b9bda6266c8",
+    "CONTEXT.md.tmp.25404.06ae669b7403",
+    "docs/adr/0002-rolling-modeled-on-blue-lock-rivals-no-modifiers.md",
+    "docs/adr/0001-rarity-gives-options-not-stats.md",
+    "CONTEXT.md",
+    "Research/Topics/UI Design.md",
+    "Research/Games/Blue Lock Rivals.md",
+    "Research/Galleries/Blue Lock Rivals - UI and Screens.md",
+    "Research/Galleries/Blue Lock Rivals - Styles and Characters (3 of 3).md",
+    "Research/Galleries/Blue Lock Rivals - Styles and Characters (2 of 3).md",
+    "Research/Galleries/Blue Lock Rivals - Styles and Characters (1 of 3).md",
+    "Research/Galleries/Blue Lock Rivals - Shop and Cosmetics.md",
+    "Research/Galleries/Blue Lock Rivals - Removed and Old Content.md",
+    "Research/Galleries/Blue Lock Rivals - Flows.md",
+    "Research/Galleries/Blue Lock Rivals - Events.md",
+    "Research/Galleries/Blue Lock Rivals - Styles.md",
+    "Research/Galleries/Rivals - Modes and Ranked.md"
+  ]
+}

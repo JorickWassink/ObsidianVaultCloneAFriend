@@ -1,0 +1,259 @@
+{
+ "colors": {
+  "Fur": "b8601a",
+  "FurDark": "6e300c",
+  "FurLight": "ffd690",
+  "Nose": "2a1810",
+  "Claw": "fff4e0",
+  "CapeRed": "ff2418",
+  "CapeWhite": "fffaf0",
+  "Leather": "5a2408",
+  "Gold": "ffc414",
+  "Honey": "ff9800",
+  "Jar": "ffb000",
+  "EyeGlow": "ffb400n",
+  "Pupil": "2a1208",
+  "Mouth": "3a1010",
+  "Teeth": "fff4e0",
+  "Tongue": "ff4a6e",
+  "PetEye": "2a1208",
+  "PetShine": "ffffff",
+  "Blush": "ff7a7a",
+  "EyeWhite": "ffffff"
+ },
+ "boss_bones": [
+  [
+   "HumanoidRootPart",
+   null,
+   0.0,
+   0.0,
+   4.2567193543348125
+  ],
+  [
+   "Body",
+   "HumanoidRootPart",
+   0.0,
+   0.0,
+   4.2567193543348125
+  ],
+  [
+   "LeftLeg",
+   "Body",
+   1.4898517740171844,
+   0.0,
+   3.6182114511845906
+  ],
+  [
+   "LeftFoot",
+   "LeftLeg",
+   1.5430607659463695,
+   0.0,
+   0.8513438708669625
+  ],
+  [
+   "RightLeg",
+   "Body",
+   -1.4898517740171844,
+   0.0,
+   3.6182114511845906
+  ],
+  [
+   "RightFoot",
+   "RightLeg",
+   -1.5430607659463695,
+   0.0,
+   0.8513438708669625
+  ],
+  [
+   "Chest",
+   "Body",
+   0.0,
+   0.0,
+   8.300602740952884
+  ],
+  [
+   "Head",
+   "Chest",
+   0.0,
+   -0.21283596771674063,
+   13.195829998437919
+  ],
+  [
+   "LeftUpperArm",
+   "Chest",
+   2.4476135779984682,
+   0.0,
+   11.705978224420734
+  ],
+  [
+   "LeftLowerArm",
+   "LeftUpperArm",
+   3.405375534211899,
+   -0.2128359708882437,
+   9.151947017772239
+  ],
+  [
+   "LeftHand",
+   "LeftLowerArm",
+   3.6182115526726886,
+   -0.4256719417764874,
+   7.130004715534615
+  ],
+  [
+   "RightUpperArm",
+   "Chest",
+   -2.4476135779984682,
+   0.0,
+   11.705978224420734
+  ],
+  [
+   "RightLowerArm",
+   "RightUpperArm",
+   -3.405375534211899,
+   -0.2128359708882437,
+   9.151947017772239
+  ],
+  [
+   "RightHand",
+   "RightLowerArm",
+   -3.6182115526726886,
+   -0.4256719417764874,
+   7.130004715534615
+  ],
+  [
+   "LeftEar",
+   "Head",
+   2.021941693309036,
+   -0.31925395157511094,
+   18.091057255922955
+  ],
+  [
+   "RightEar",
+   "Head",
+   -2.021941693309036,
+   -0.31925395157511094,
+   18.091057255922955
+  ]
+ ],
+ "pet_bones": [
+  [
+   "HumanoidRootPart",
+   null,
+   0,
+   0,
+   2.6
+  ],
+  [
+   "Body",
+   "HumanoidRootPart",
+   0,
+   0,
+   2.6
+  ],
+  [
+   "Head",
+   "Body",
+   0,
+   -0.2,
+   4.3
+  ],
+  [
+   "LeftUpperArm",
+   "Body",
+   2.0,
+   0,
+   3.6
+  ],
+  [
+   "LeftLeg",
+   "Body",
+   1.1,
+   0,
+   1.3
+  ],
+  [
+   "RightUpperArm",
+   "Body",
+   -2.0,
+   0,
+   3.6
+  ],
+  [
+   "RightLeg",
+   "Body",
+   -1.1,
+   0,
+   1.3
+  ]
+ ],
+ "boss_main": {
+  "Body": "Fur",
+  "LeftLeg": "Fur",
+  "LeftFoot": "FurDark",
+  "RightLeg": "Fur",
+  "RightFoot": "FurDark",
+  "Chest": "Fur",
+  "Head": "Fur",
+  "LeftUpperArm": "Fur",
+  "LeftLowerArm": "Fur",
+  "LeftHand": "FurDark",
+  "RightUpperArm": "Fur",
+  "RightLowerArm": "Fur",
+  "RightHand": "FurDark",
+  "LeftEar": "FurDark",
+  "RightEar": "FurDark"
+ },
+ "pet_main": {
+  "Body": "Fur",
+  "Head": "Fur",
+  "LeftUpperArm": "Fur",
+  "LeftLeg": "Fur",
+  "RightUpperArm": "Fur",
+  "RightLeg": "Fur"
+ },
+ "pet_x": 40.0,
+ "expressions": {
+  "Grumpy": [
+   "Grumpy",
+   "Grumpy"
+  ],
+  "Angry": [
+   "Angry",
+   "Angry"
+  ],
+  "Roar": [
+   "Angry",
+   "Roar"
+  ],
+  "Hurt": [
+   "Hurt",
+   "Hurt"
+  ],
+  "Dazed": [
+   "Dazed",
+   "Dazed"
+  ],
+  "Blink": [
+   "Blink",
+   "Grumpy"
+  ],
+  "GlanceL": [
+   "GlanceL",
+   "Grumpy"
+  ],
+  "GlanceR": [
+   "GlanceR",
+   "Grumpy"
+  ]
+ },
+ "pet_expressions": {
+  "Happy": [
+   "Happy",
+   "Happy"
+  ],
+  "Blink": [
+   "Blink",
+   "Happy"
+  ]
+ }
+}

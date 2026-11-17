@@ -1,0 +1,42 @@
+{
+ "tag": "P08",
+ "bones": [
+  [
+   "HumanoidRootPart",
+   null,
+   -0.0,
+   0.0,
+   2.6
+  ],
+  [
+   "Body",
+   "HumanoidRootPart",
+   -0.0,
+   0.0,
+   2.6
+  ],
+  [
+   "Head",
+   "Body",
+   0.0,
+   -0.2,
+   4.8
+  ]
+ ],
+ "parts": {
+  "Body": "ffb900",
+  "Body_Dark": "2a2a33",
+  "Body_Headlight": "ffe96bn",
+  "Body_RedLight": "ff1e0bn",
+  "Body_Metal": "b4c7dc",
+  "Body_Chrome": "e2eaf4",
+  "Head": "72ace8",
+  "Head_Belly": "f6fbff",
+  "Head_Mouth": "82182f",
+  "Head_Teeth": "ffffff",
+  "Head_Eyes_Happy_Dark": "2a2a33",
+  "Head_Eyes_Happy_Teeth": "ffffff",
+  "Head_Dark": "2a2a33",
+  "Head_Eyes_Blink_Dark": "2a2a33"
+ }
+}

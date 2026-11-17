@@ -1,0 +1,40 @@
+filters:
+  and:
+    - 'file.inFolder("Scripts")'
+formulas:
+  status_icon: 'if(status == "Done", "✅", if(status == "In progress", "🔨", "📋"))'
+properties:
+  file.name:
+    displayName: "Script"
+  runs_on:
+    displayName: "Runs on"
+  depends_on:
+    displayName: "Depends on"
+  formula.status_icon:
+    displayName: ""
+views:
+  - type: table
+    name: "All scripts"
+    order:
+      - formula.status_icon
+      - file.name
+      - type
+      - location
+      - runs_on
+      - status
+      - depends_on
+      - features
+    groupBy:
+      property: runs_on
+      direction: ASC
+  - type: table
+    name: "Not done"
+    filters:
+      and:
+        - 'status != "Done"'
+    order:
+      - formula.status_icon
+      - file.name
+      - type
+      - status
+      - features

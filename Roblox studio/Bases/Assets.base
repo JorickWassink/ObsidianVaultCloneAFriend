@@ -1,0 +1,25 @@
+filters:
+  and:
+    - 'file.inFolder("Assets")'
+properties:
+  file.name:
+    displayName: "Asset"
+  asset_type:
+    displayName: "Type"
+  asset_id:
+    displayName: "Asset ID"
+  used_in:
+    displayName: "Used in"
+views:
+  - type: table
+    name: "All assets"
+    order:
+      - file.name
+      - asset_type
+      - asset_id
+      - source
+      - license
+      - used_in
+    groupBy:
+      property: asset_type
+      direction: ASC

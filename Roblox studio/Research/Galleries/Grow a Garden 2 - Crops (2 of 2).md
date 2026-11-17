@@ -1,0 +1,13 @@
+---
+game: "[[Grow a Garden 2]]"
+gallery: "Crops"
+part: 2
+images: 19
+source: https://growagarden2.fandom.com/wiki/Grow_A_Garden_2_Wiki
+tags: [research, gallery]
+---
+# Grow a Garden 2: Crops (2 of 2)
+
+> [!info] 19 images linked from the [Grow A Garden 2 Wiki](https://growagarden2.fandom.com/wiki/Grow_A_Garden_2_Wiki). Hover an image for its name; images load from the wiki, so you need internet.
+
+![StrawberrySeed|180](https://static.wikia.nocookie.net/growagarden27847/images/7/76/StrawberrySeed.png/revision/latest) ![SugarCaneSeed|180](https://static.wikia.nocookie.net/growagarden27847/images/0/04/SugarCaneSeed.png/revision/latest) ![SunBloomProduce|180](https://static.wikia.nocookie.net/growagarden27847/images/f/f4/SunBloomProduce.png/revision/latest) ![SunBloomSeed|180](https://static.wikia.nocookie.net/growagarden27847/images/6/63/SunBloomSeed.png/revision/latest) ![SunflowerProduce|180](https://static.wikia.nocookie.net/growagarden27847/images/b/b8/SunflowerProduce.png/revision/latest) ![SunflowerSeed|180](https://static.wikia.nocookie.net/growagarden27847/images/2/26/SunflowerSeed.png/revision/latest) ![ThornRoseProduce|180](https://static.wikia.nocookie.net/growagarden27847/images/d/d5/ThornRoseProduce.png/revision/latest) ![ThornRoseSeed|180](https://static.wikia.nocookie.net/growagarden27847/images/7/7a/ThornRoseSeed.png/revision/latest) ![TomatoProduce|180](https://static.wikia.nocookie.net/growagarden27847/images/d/d5/TomatoProduce.png/revision/latest) ![TomatoSeed|180](https://static.wikia.nocookie.net/growagarden27847/images/3/3d/TomatoSeed.png/revision/latest) ![TulipProduce|180](https://static.wikia.nocookie.net/growagarden27847/images/e/ec/TulipProduce.png/revision/latest) ![TulipSeed|180](https://static.wikia.nocookie.net/growagarden27847/images/b/b5/TulipSeed.png/revision/latest) ![VampireBloomProduce|180](https://static.wikia.nocookie.net/growagarden27847/images/7/78/VampireBloomProduce.png/revision/latest) ![VampireBloomSeed|180](https://static.wikia.nocookie.net/growagarden27847/images/5/5f/VampireBloomSeed.png/revision/latest) ![VenomSpitterCrop|180](https://static.wikia.nocookie.net/growagarden27847/images/b/b9/VenomSpitterCrop.png/revision/latest) ![VenomSpitterSeed|180](https://static.wikia.nocookie.net/growagarden27847/images/3/30/VenomSpitterSeed.png/revision/latest) ![VenusFlyTrapProduce|180](https://static.wikia.nocookie.net/growagarden27847/images/c/cf/VenusFlyTrapProduce.png/revision/latest) ![VenusFlyTrapSeed|180](https://static.wikia.nocookie.net/growagarden27847/images/f/f8/VenusFlyTrapSeed.png/revision/latest) ![WheatSeed|180](https://static.wikia.nocookie.net/growagarden27847/images/1/1e/WheatSeed.png/revision/latest)

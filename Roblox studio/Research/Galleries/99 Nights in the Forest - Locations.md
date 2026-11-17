@@ -1,0 +1,13 @@
+---
+game: "[[99 Nights in the Forest]]"
+gallery: "Locations"
+part: 1
+images: 18
+source: https://99-nights-in-the-forest.fandom.com/wiki/99_Nights_in_the_Forest_Wiki
+tags: [research, gallery]
+---
+# 99 Nights in the Forest: Locations
+
+> [!info] 18 images linked from the [99 Nights in the Forest Wiki](https://99-nights-in-the-forest.fandom.com/wiki/99_Nights_in_the_Forest_Wiki). Hover an image for its name; images load from the wiki, so you need internet.
+
+![Armory|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/a/a7/Armory.jpg/revision/latest) ![BasicLakes|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/3/3e/BasicLakes.png/revision/latest) ![BoneLakes|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/e/e9/BoneLakes.png/revision/latest) ![Broken UFO|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/d/da/Broken_UFO.png/revision/latest) ![Captura de tela 2025-07-19 224328|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/d/da/Broken_UFO.png/revision/latest) ![Cultist Stronghold2|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/9/90/Cultist_Stronghold2.png/revision/latest) ![Cultist temple|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/2/2c/Cultist_temple.png/revision/latest) ![DirtyLakes|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/f/f4/DirtyLakes.png/revision/latest) ![FreezingLakes|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/e/ed/FreezingLakes.png/revision/latest) ![Frog Pond (Frog Cave)|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/5/59/Frog_Pond_%28Frog_Cave%29.webp/revision/latest) ![Frog Swirly Pond|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/7/7d/Frog_Swirly_Pond.png/revision/latest) ![Lava pool|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/4/43/Lava_pool.png/revision/latest) ![Meteor-crater|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/f/f7/Meteor-crater.webp/revision/latest) ![Mothership UFO|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/0/0b/Mothership_UFO.png/revision/latest) ![U|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/0/02/U.png/revision/latest) ![Volcanic tower|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/a/ac/Volcanic_tower.png/revision/latest) ![Wooden Shed|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/c/c7/Wooden_Shed.png/revision/latest) ![Yellow watchtower render|180](https://static.wikia.nocookie.net/99-nights-in-the-forest/images/6/62/Yellow_watchtower_render.png/revision/latest)

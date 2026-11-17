@@ -1,0 +1,141 @@
+{
+ "tag": "B08",
+ "bones": [
+  [
+   "HumanoidRootPart",
+   null,
+   0.005,
+   -0.022,
+   11.6
+  ],
+  [
+   "Body",
+   "HumanoidRootPart",
+   0.005,
+   -0.022,
+   11.6
+  ],
+  [
+   "Head",
+   "Body",
+   0.0,
+   -0.6,
+   19.6
+  ],
+  [
+   "LeftUpperArm",
+   "Body",
+   6.9,
+   0.0,
+   14.4
+  ],
+  [
+   "RightUpperArm",
+   "Body",
+   -6.9,
+   0.0,
+   14.4
+  ],
+  [
+   "LeftLowerArm",
+   "LeftUpperArm",
+   8.2,
+   -0.3,
+   10.8
+  ],
+  [
+   "RightLowerArm",
+   "RightUpperArm",
+   -8.2,
+   -0.3,
+   10.8
+  ],
+  [
+   "LeftHand",
+   "LeftLowerArm",
+   8.3,
+   -0.6,
+   7.6
+  ],
+  [
+   "RightHand",
+   "RightLowerArm",
+   -8.3,
+   -0.6,
+   7.6
+  ],
+  [
+   "LeftLeg",
+   "Body",
+   3.4,
+   0.4,
+   8.0
+  ],
+  [
+   "RightLeg",
+   "Body",
+   -3.4,
+   0.4,
+   8.0
+  ]
+ ],
+ "parts": {
+  "LeftLeg": "b4c7dc",
+  "RightLeg": "b4c7dc",
+  "LeftLeg_MetalDark": "7a8da2",
+  "RightLeg_MetalDark": "7a8da2",
+  "LeftLeg_Mech": "ffb900",
+  "RightLeg_Mech": "ffb900",
+  "LeftLeg_Headlight": "ffe96bn",
+  "RightLeg_Headlight": "ffe96bn",
+  "Body": "ffb900",
+  "Body_Dark": "2a2a33",
+  "Body_Headlight": "ffe96bn",
+  "Body_RedLight": "ff1e0bn",
+  "Body_Chrome": "e2eaf4",
+  "Body_Metal": "b4c7dc",
+  "Body_MechDark": "fbaf00",
+  "Body_Shark": "72ace8",
+  "Body_Belly": "f6fbff",
+  "Head": "72ace8",
+  "Head_Belly": "f6fbff",
+  "Head_Mouth": "82182f",
+  "Head_Teeth": "ffffff",
+  "Head_Dark": "2a2a33",
+  "Head_SharkDark": "578ac0",
+  "LeftUpperArm": "b4c7dc",
+  "RightUpperArm": "b4c7dc",
+  "LeftUpperArm_Mech": "ffb900",
+  "RightUpperArm_Mech": "ffb900",
+  "LeftUpperArm_MetalDark": "7a8da2",
+  "RightUpperArm_MetalDark": "7a8da2",
+  "LeftLowerArm": "ffb900",
+  "RightLowerArm": "ffb900",
+  "LeftLowerArm_Dark": "2a2a33",
+  "RightLowerArm_Dark": "2a2a33",
+  "LeftHand": "e2eaf4",
+  "RightHand": "e2eaf4",
+  "LeftHand_MetalDark": "7a8da2",
+  "RightHand_MetalDark": "7a8da2",
+  "Head_Eyes_Grumpy+Angry+GlanceL+GlanceR+Dazed_EyeW": "fafafa",
+  "Head_Eyes_Grumpy_Iris": "ff2121",
+  "Head_Eyes_Grumpy_FaceD": "1e181a",
+  "Head_Eyes_Grumpy_EyeW": "fafafa",
+  "Head_Eyes_Grumpy_SharkDark": "578ac0",
+  "Head_Eyes_GlanceL_Iris": "ff2121",
+  "Head_Eyes_GlanceL_FaceD": "1e181a",
+  "Head_Eyes_GlanceL_EyeW": "fafafa",
+  "Head_Eyes_GlanceL_SharkDark": "578ac0",
+  "Head_Eyes_GlanceR_Iris": "ff2121",
+  "Head_Eyes_GlanceR_FaceD": "1e181a",
+  "Head_Eyes_GlanceR_EyeW": "fafafa",
+  "Head_Eyes_GlanceR_SharkDark": "578ac0",
+  "Head_Eyes_Angry_Iris": "ff2121",
+  "Head_Eyes_Angry_FaceD": "1e181a",
+  "Head_Eyes_Angry_EyeW": "fafafa",
+  "Head_Eyes_Angry_SharkDark": "578ac0",
+  "Head_Eyes_Dazed_FaceD": "1e181a",
+  "Head_Eyes_Hurt_FaceD": "1e181a",
+  "Head_Eyes_Blink_FaceD": "1e181a"
+ }
+}

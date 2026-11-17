@@ -1,0 +1,21 @@
+{
+ "colors": {
+  "WallPanel": "dfe7f2",
+  "Stripe": "3a8dde",
+  "LabWhite": "f7f9fc",
+  "LabDark": "2b3247",
+  "LabGrey": "b8c2d0",
+  "LabGlass": "96d7ffg",
+  "NeonCyan": "35e0ffn",
+  "NeonPink": "ff4fa3n",
+  "Lamp": "ffe9a0n",
+  "Planter": "8a95a8",
+  "Leaf": "5cc23a",
+  "LeafDark": "3e9e2b",
+  "RoofTop": "9aa6b8",
+  "Metal": "4a5470",
+  "MetalLight": "6b7894",
+  "Step": "c9d1dd",
+  "Mat": "3a4258"
+ }
+}

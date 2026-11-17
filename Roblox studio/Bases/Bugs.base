@@ -1,0 +1,37 @@
+filters:
+  and:
+    - 'file.inFolder("Bugs")'
+formulas:
+  days_open: 'if(reported && status != "Fixed", (today() - date(reported)).days, "")'
+properties:
+  file.name:
+    displayName: "Bug"
+  found_in:
+    displayName: "Found in"
+  formula.days_open:
+    displayName: "Days open"
+views:
+  - type: table
+    name: "Open bugs"
+    filters:
+      and:
+        - 'status != "Fixed"'
+    order:
+      - file.name
+      - severity
+      - status
+      - platform
+      - found_in
+      - formula.days_open
+    groupBy:
+      property: severity
+      direction: ASC
+  - type: table
+    name: "All bugs"
+    order:
+      - file.name
+      - status
+      - severity
+      - platform
+      - found_in
+      - reported

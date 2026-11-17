@@ -1,0 +1,44 @@
+{
+ "tag": "P10",
+ "bones": [
+  [
+   "HumanoidRootPart",
+   null,
+   0.0,
+   1.088,
+   2.792
+  ],
+  [
+   "Body",
+   "HumanoidRootPart",
+   0.0,
+   1.088,
+   2.792
+  ],
+  [
+   "Head",
+   "Body",
+   0.0,
+   -0.2,
+   5.1
+  ]
+ ],
+ "parts": {
+  "Body": "3e3651",
+  "Body_Belly": "66538c",
+  "Body_Gem": "a73cffn",
+  "Body_ScalesDark": "262136",
+  "Body_Horn": "eae1ff",
+  "Body_Wing": "4d3a77",
+  "Body_Rune": "830dffn",
+  "Head": "3e3651",
+  "Head_Rune": "830dffn",
+  "Head_Eyes_Happy_Gem": "a73cffn",
+  "Head_Eyes_Happy_Dark": "120f18",
+  "Head_ScalesDark": "262136",
+  "Head_Horn": "eae1ff",
+  "Head_HornDark": "d7c7ff",
+  "Head_Crown": "ffb500",
+  "Head_Eyes_Blink_Gem": "a73cffn"
+ }
+}

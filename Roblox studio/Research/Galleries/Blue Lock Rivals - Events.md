@@ -1,0 +1,13 @@
+---
+game: "[[Blue Lock Rivals]]"
+gallery: "Events"
+part: 1
+images: 18
+source: https://bluelockrivals-roblox.fandom.com/wiki/Blue_Lock:_Rivals_Wiki
+tags: [research, gallery]
+---
+# Blue Lock Rivals: Events
+
+> [!info] 18 images linked from the [Blue Lock: Rivals Wiki](https://bluelockrivals-roblox.fandom.com/wiki/Blue_Lock:_Rivals_Wiki). Hover an image for its name; images load from the wiki, so you need internet.
+
+![Bunny Hop Trap|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/b/bb/Bunny_Hop_Trap.gif/revision/latest) ![Bunny Hop Trap Shot|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/f/f1/Bunny_Hop_Trap_Shot.gif/revision/latest) ![Carrot Grab|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/8/8b/Carrot_Grab.gif/revision/latest) ![Easter Event BLR|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/5/5d/Easter_Event_BLR.webp/revision/latest) ![Easter event blue lock rivals free pack|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/4/4d/Easter_event_blue_lock_rivals_free_pack.png/revision/latest) ![Easter event free pack|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/2/2d/Easter_event_free_pack.png/revision/latest) ![Easter Yuki Awakening|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/0/06/Easter_Yuki_Awakening.gif/revision/latest) ![Easter2026Upd|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/0/05/Easter2026Upd.webp/revision/latest) ![Egg Shuffle|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/e/eb/Egg_Shuffle.gif/revision/latest) ![Hallowlobby|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/a/af/Hallowlobby.png/revision/latest) ![Hallowspins|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/0/06/Hallowspins.png/revision/latest) ![Hat Steal|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/6/6f/Hat_Steal.gif/revision/latest) ![Kaiser easter event 25k limited premiun pack image|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/a/a7/Kaiser_easter_event_25k_limited_premiun_pack_image.png/revision/latest) ![Midfield|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/d/d8/Midfield.png/revision/latest) ![Midfield Mark2|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/4/49/Midfield_Mark2.png/revision/latest) ![NEL room|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/7/7e/NEL_room.png/revision/latest) ![NEL table|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/8/85/NEL_table.png/revision/latest) ![New Eggs|180](https://static.wikia.nocookie.net/bluelockrivals-roblox/images/e/ec/New_Eggs.png/revision/latest)

@@ -1,0 +1,45 @@
+filters:
+  and:
+    - 'file.inFolder("Remotes")'
+formulas:
+  security: 'if(direction == "Server → Client", "n/a", if(validated && rate_limited, "✅ OK", "⚠️ Needs work"))'
+properties:
+  file.name:
+    displayName: "Remote"
+  fired_by:
+    displayName: "Fired by"
+  handled_by:
+    displayName: "Handled by"
+  rate_limited:
+    displayName: "Rate limited"
+  formula.security:
+    displayName: "Security"
+views:
+  - type: table
+    name: "All remotes"
+    order:
+      - file.name
+      - kind
+      - direction
+      - payload
+      - validated
+      - rate_limited
+      - formula.security
+      - fired_by
+      - handled_by
+    summaries:
+      validated: Checked
+  - type: table
+    name: "Security check"
+    filters:
+      and:
+        - 'direction == "Client → Server"'
+        - or:
+            - 'validated != true'
+            - 'rate_limited != true'
+    order:
+      - file.name
+      - kind
+      - validated
+      - rate_limited
+      - handled_by

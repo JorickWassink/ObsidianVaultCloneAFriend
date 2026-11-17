@@ -1,0 +1,83 @@
+{
+ "Boss5Idle": {
+  "length": 2.6,
+  "loop": true,
+  "hold": false,
+  "priority": "Idle",
+  "events": {},
+  "expressions": "0:Grumpy,1.2:Blink,1.35:Grumpy"
+ },
+ "Boss5Walk": {
+  "length": 1.3,
+  "loop": true,
+  "hold": false,
+  "priority": "Movement",
+  "events": {},
+  "expressions": "0:Grumpy"
+ },
+ "Boss5Strike": {
+  "length": 1.05,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "impact": 0.55
+  },
+  "expressions": "0:Angry,0.95:Grumpy"
+ },
+ "Boss5SpecialWind": {
+  "length": 1.2,
+  "loop": false,
+  "hold": true,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Angry"
+ },
+ "Boss5SpecialThrow": {
+  "length": 0.55,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "release": 0.12
+  },
+  "expressions": "0:Angry"
+ },
+ "Boss5SpecialHit": {
+  "length": 1.1,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "impact": 0.15
+  },
+  "expressions": "0:Roar,0.5:Angry"
+ },
+ "Boss5Intro": {
+  "length": 4.2,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "roar": 2.4,
+   "pound": 3.35
+  },
+  "expressions": "0:Grumpy,2.2:Roar,3.0:Angry"
+ },
+ "Boss5Defeat": {
+  "length": 1.4,
+  "loop": false,
+  "hold": true,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Hurt,0.55:Dazed"
+ },
+ "Boss5Hurt": {
+  "length": 0.6,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Hurt,0.5:Grumpy"
+ }
+}

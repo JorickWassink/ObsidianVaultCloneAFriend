@@ -1,0 +1,19 @@
+filters:
+  and:
+    - 'file.inFolder("Data")'
+properties:
+  file.name:
+    displayName: "Key"
+  store_type:
+    displayName: "Store type"
+  key_pattern:
+    displayName: "Key pattern"
+views:
+  - type: table
+    name: "DataStore keys"
+    order:
+      - file.name
+      - datastore
+      - store_type
+      - key_pattern
+      - version

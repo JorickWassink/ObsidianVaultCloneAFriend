@@ -1,0 +1,52 @@
+filters:
+  and:
+    - 'file.inFolder("Research")'
+properties:
+  file.name:
+    displayName: "Note"
+  core_loop:
+    displayName: "Core loop"
+  main_currency:
+    displayName: "Currency"
+  progression_gate:
+    displayName: "Gate"
+views:
+  - type: table
+    name: "Games"
+    filters:
+      and:
+        - 'file.inFolder("Research/Games")'
+    order:
+      - file.name
+      - genre
+      - core_loop
+      - main_currency
+      - progression_gate
+      - monetization
+      - images
+    summaries:
+      images: Sum
+  - type: table
+    name: "Topics"
+    filters:
+      and:
+        - 'file.inFolder("Research/Topics")'
+    order:
+      - file.name
+      - topic
+      - file.tags
+  - type: table
+    name: "Galleries"
+    filters:
+      and:
+        - 'file.inFolder("Research/Galleries")'
+    order:
+      - file.name
+      - game
+      - gallery
+      - images
+    groupBy:
+      property: game
+      direction: ASC
+    summaries:
+      images: Sum

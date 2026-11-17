@@ -1,0 +1,77 @@
+{
+ "Boss4Idle": {
+  "length": 2.0,
+  "loop": true,
+  "hold": false,
+  "priority": "Idle",
+  "events": {},
+  "expressions": "0:Grumpy"
+ },
+ "Boss4Walk": {
+  "length": 0.8,
+  "loop": true,
+  "hold": false,
+  "priority": "Movement",
+  "events": {},
+  "expressions": "0:Grumpy"
+ },
+ "Boss4Strike": {
+  "length": 1.05,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "impact": 0.55
+  },
+  "expressions": "0:Angry,0.95:Grumpy"
+ },
+ "Boss4SpecialWind": {
+  "length": 0.8,
+  "loop": false,
+  "hold": true,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Angry"
+ },
+ "Boss4Combo": {
+  "length": 2.4,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "hit1": 0.3,
+   "hit2": 0.65,
+   "hit3": 1.0,
+   "joey": 1.25,
+   "uppercut": 1.85
+  },
+  "expressions": "0:Angry,1.85:Roar,2.2:Angry"
+ },
+ "Boss4Intro": {
+  "length": 4.2,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {
+   "roar": 2.4,
+   "pound": 3.35
+  },
+  "expressions": "0:Grumpy,2.2:Roar,3.0:Angry"
+ },
+ "Boss4Defeat": {
+  "length": 1.4,
+  "loop": false,
+  "hold": true,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Hurt,0.55:Dazed"
+ },
+ "Boss4Hurt": {
+  "length": 0.6,
+  "loop": false,
+  "hold": false,
+  "priority": "Action",
+  "events": {},
+  "expressions": "0:Hurt,0.5:Grumpy"
+ }
+}

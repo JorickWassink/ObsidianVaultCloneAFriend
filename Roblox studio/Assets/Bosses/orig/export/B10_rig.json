@@ -1,0 +1,158 @@
+{
+ "tag": "B10",
+ "bones": [
+  [
+   "HumanoidRootPart",
+   null,
+   -0.001,
+   0.5,
+   16.75
+  ],
+  [
+   "Body",
+   "HumanoidRootPart",
+   -0.001,
+   0.5,
+   16.75
+  ],
+  [
+   "Head",
+   "Body",
+   0.0,
+   -2.6,
+   23.8
+  ],
+  [
+   "LeftUpperArm",
+   "Body",
+   6.2,
+   0.0,
+   19.6
+  ],
+  [
+   "RightUpperArm",
+   "Body",
+   -6.2,
+   0.0,
+   19.6
+  ],
+  [
+   "LeftLowerArm",
+   "LeftUpperArm",
+   7.9,
+   -0.4,
+   15.0
+  ],
+  [
+   "RightLowerArm",
+   "RightUpperArm",
+   -7.9,
+   -0.4,
+   15.0
+  ],
+  [
+   "LeftHand",
+   "LeftLowerArm",
+   8.0,
+   -1.0,
+   11.4
+  ],
+  [
+   "RightHand",
+   "RightLowerArm",
+   -8.0,
+   -1.0,
+   11.4
+  ],
+  [
+   "LeftLeg",
+   "Body",
+   4.2,
+   0.6,
+   9.6
+  ],
+  [
+   "RightLeg",
+   "Body",
+   -4.2,
+   0.6,
+   9.6
+  ],
+  [
+   "LeftWing",
+   "Body",
+   4.0,
+   4.6,
+   19.8
+  ],
+  [
+   "RightWing",
+   "Body",
+   -4.0,
+   4.6,
+   19.8
+  ],
+  [
+   "Tail",
+   "Body",
+   0.0,
+   4.8,
+   10.0
+  ]
+ ],
+ "parts": {
+  "LeftLeg": "3e3651",
+  "RightLeg": "3e3651",
+  "LeftLeg_ScalesDark": "262136",
+  "RightLeg_ScalesDark": "262136",
+  "LeftLeg_Horn": "eae1ff",
+  "RightLeg_Horn": "eae1ff",
+  "LeftLeg_Rune": "830dffn",
+  "RightLeg_Rune": "830dffn",
+  "Body": "3e3651",
+  "LeftWing": "262136",
+  "RightWing": "262136",
+  "Body_Belly": "66538c",
+  "Body_BellyDark": "4c3d6f",
+  "Body_Gem": "a73cffn",
+  "Body_Rune": "830dffn",
+  "Body_HornDark": "d7c7ff",
+  "Body_ScalesDark": "262136",
+  "Head": "3e3651",
+  "Head_ScalesDark": "262136",
+  "Head_Horn": "eae1ff",
+  "Head_Rune": "830dffn",
+  "Head_HornDark": "d7c7ff",
+  "Head_Crown": "ffb500",
+  "LeftUpperArm": "3e3651",
+  "RightUpperArm": "3e3651",
+  "LeftLowerArm": "262136",
+  "RightLowerArm": "262136",
+  "LeftHand": "3e3651",
+  "RightHand": "3e3651",
+  "LeftHand_Horn": "eae1ff",
+  "RightHand_Horn": "eae1ff",
+  "LeftUpperArm_ScalesDark": "262136",
+  "RightUpperArm_ScalesDark": "262136",
+  "LeftWing_Horn": "eae1ff",
+  "RightWing_Horn": "eae1ff",
+  "LeftWing_Wing": "4d3a77",
+  "RightWing_Wing": "4d3a77",
+  "LeftWing_WingDark": "362959",
+  "RightWing_WingDark": "362959",
+  "LeftWing_Rune": "830dffn",
+  "RightWing_Rune": "830dffn",
+  "Tail": "3e3651",
+  "Tail_HornDark": "d7c7ff",
+  "Tail_ScalesDark": "262136",
+  "Tail_Rune": "830dffn",
+  "Head_Eyes_Grumpy+Angry+GlanceL+GlanceR+Dazed_Gem": "a73cffn",
+  "Head_Eyes_Grumpy_ScalesDark": "262136",
+  "Head_Eyes_GlanceL_ScalesDark": "262136",
+  "Head_Eyes_GlanceR_ScalesDark": "262136",
+  "Head_Eyes_Angry_ScalesDark": "262136",
+  "Head_Eyes_Dazed_FaceD": "1e181a",
+  "Head_Eyes_Hurt_FaceD": "1e181a",
+  "Head_Eyes_Blink_FaceD": "1e181a"
+ }
+}
